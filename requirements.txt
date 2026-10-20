@@ -1,0 +1,4 @@
+# Dependances optionnelles de ClariFile.
+# Sans elles, le script fonctionne et utilise la date de modification.
+Pillow>=9.0      # date de prise de vue des photos (EXIF)
+mutagen>=1.45    # artiste et album des fichiers audio
